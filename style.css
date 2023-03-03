@@ -1,0 +1,36 @@
+/* .lable{
+    margin-bottom: 4px;
+}
+.inputstyling{
+    width: 100%;
+    padding: 5px;
+}
+.div{
+    text-align: center;
+    margin:0 auto;
+    width: 30%;
+} */
+body{
+    background-color:lightblue ;
+}
+h1{
+    text-align: center;
+    
+}
+
+#signup01{
+    width: 35%;
+    background-color: white;
+    margin: 0 auto;
+    padding: 5px;
+}
+.inputlabel{
+    margin-bottom: 4px;
+}
+.int{
+    width: 90%;
+}
+textarea{
+    width: 90%;
+    height: 150px;
+}
